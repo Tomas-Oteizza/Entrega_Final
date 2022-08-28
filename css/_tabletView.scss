@@ -1,0 +1,33 @@
+@media screen and (min-width: 720px) {
+    .logo{ width: 100px; height: 80px;}
+    .lifefit {font-size: 40px;}
+
+    .sec-index{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        align-items: center;
+    }
+
+    .qs-img { height: 250px; margin: 10px;}
+
+    .card-qs{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+    }
+
+    .ent-sec , .nut-sec{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        align-items: start;
+    }
+
+    form{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        align-items: end;
+    }
+}
